@@ -1,0 +1,63 @@
+Atharva Unmesh Raut
++1 (732) 522-6944  atharvauraut@gmail.com  atharva.raut@rutgers.edu
+Education
+Rutgers University-New Brunswick, New Jersey Aug ’22 – Present
+Masters of Science, Computer Science – AI/ML Concentration
+(Introduction to Artificial Intelligence, Data Structures and Algorithms, Mathematical Foundation of Data Science)
+University Of Mumbai Jun ’15 – Jun ‘19
+Bachelor of Engineering, Information Technology (GPA-8.53/10)
+Work Experience
+ZS Associates Pune, India
+Business Technology Solutions Associate Jun ‘19 – Jan ‘22
+ Designed, developed and deployed data pipeline for a deep-learning powered recommendation engine using PySpark
+and SQL on AWS EMR.
+ Improved the impact of recommendations by 7% by performing hyperparameter optimization on the engine.
+ Assessed the impact of the recommendations using Student’s T-Test on matched pairs.
+ Reduced the infrastructure cost by 10% & operational cost by 33% of an existing ETL pipeline by performing value
+stream mapping.
+ Enabled injecting A/B test-focussed data points into the operational recommendations by developing a multigranularity
+A/B Testing pipeline using Python and SQL for a Fortune-500 Pharma company.
+ Nullified the manual efforts and infrastructure cost required to busy-wait by automating data extraction and process
+triggers using shell script and Cron.
+ Curbed the need to perform quality checks manually by integrating them with the SMTP using PySpark and ShellScript.
+ Prepared and presented data-driven insights based on Drug Distribution Data (DDD) using Excel, Sisense and Qlik.
+ Reduced the error rate in the final output to 0 by setting up SOPs to handle the French diacritics.
+ Led a team of 4 associates to develop and deliver 7 change requests using Agile practices.
+Liberty General Insurance Mumbai, India
+Summer Intern Jun ’18-Jul ‘18
+ Developed a hybrid app for employee feedback collection and management to support Android and IOS devices in a
+single development effort using Ionic Framework based on AngularJS and Apache Cordova.
+ Tested performance of an Android App using Appium, Apache POI library and UIAutomatorViewer.
+ Prepared and submitted the performance report for each input group in Excel.
+Projects
+Baby Monitoring Using Smart Cradle (Minor Research Project – Mumbai University) Jun ‘18 – Jun ‘19
+ Enabled working parents to monitor their children remotely and alert them when the child is crying.
+ Detected whether an infant is crying with an accuracy of 92% by implementing an image classifier using transferred
+learning from Inception V3.
+ Ascertained the reason for crying using mouth & eye states with facial indicators in Dlib & OpenCV.
+ Integrated temperature and humidity information using a DHT11 sensor.
+ This project was selected to be fully funded as a Minor Research by the University of Mumbai.
+Smart FRRO – Smart India Hackathon Dec ‘17 – Mar ‘18
+ Led a team of 5 members towards the Grand finale of the Smart India Hackathon.
+ The solution was selected to be showcased amongst the top 1200 applications from all over the country.
+ Proposed & prototyped a digital system for the Foreign Nationals Regional Registration Office (FRRO) of Telangana
+state to digitize the process of manually tracking resident permits & linking them to various ministries.
+ Enabled permit information exchange amongst ministries by designing a data model based on the Publisher-
+Subscriber mechanism.
+ A responsive web-based App using HTML5, CSS (front-end), PHP(backend) & MySQL database was also implemented.
+Authentication and Tracking System Jan ’18 – May ‘18
+ This personal project was built to enhance the skills studied in the curriculum's System and Web Security module.
+It featured: o Mobile and Email verification with the help of OTP (transmission using OZEKI NG SMS gateway).
+o CAPTCHA generation and verification.
+o Fetching and storing the user location with the help of Google Maps API.
+ User Interface was built using HTML5, CSS (front-end), PHP(backend) and MySQL (database).
+Extra-Curricular Activities
+ Counseled 3 pre-final year student groups for their final year projects. All the 3 solutions covered the
+full scope of the problem statement and were implemented within the committed timeline.
+ Actively participated in community outreach activities at ZS Associates, including animal shelter
+cleaning, tree plantation drives and teaching drawing at an orphanage.
+2020
+2019
+ Successfully co-led gaming events and hackathons as part of the IT Students’ association. 2018-2019
+ Volunteered in the National Service Scheme, a public service program conducted by the Govt of India. 2016 -2018
+ Actively pursued art as a hobby on display at Instagram @atharvaraut.art 2013 - Present
